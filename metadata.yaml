@@ -20,5 +20,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Wide World Magazine, Vol. 22, No. 128, November 1908
 url: http://www.gutenberg.org/ebooks/49469
